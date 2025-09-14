@@ -1,2 +1,5 @@
 # Whiff-Analysis
 
+In this project, I studied whiff rates in Major League Baseball using Python, PostgreSQL, and Statcast pitch-level data. I designed and implemented a PostgreSQL database to store and manage large datasets, writing optimized SQL queries to extract relevant pitch and player-level features. Using pandas, NumPy, and pybaseball, I performed extensive data wrangling, cleaning, and feature engineering to prepare the data for analysis. I conducted exploratory data analysis with Matplotlib and Seaborn to visualize pitch velocity, spin rate, vertical and horizontal movement, and their relationships to swinging-strike rates.
+
+To ensure statistical rigor, I applied descriptive and inferential statistical techniques to identify significant predictors of whiff rate, while leveraging Python’s statsmodels library to evaluate model assumptions and interpret results. The project emphasized reproducibility by incorporating modularized Python functions, parameterized SQL queries. This project uncovered key insights into what drives sucessful pitching strategy in the age of analytics. 
